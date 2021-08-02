@@ -1,0 +1,13 @@
+stock_number,date,status,type
+2330,2021-01-01,OK,Stock_His
+2330,2021-02-01,OK,Stock_His
+2330,2021-03-01,OK,Stock_His
+2330,2021-04-01,OK,Stock_His
+2330,2021-05-01,OK,Stock_His
+2330,2021-06-01,OK,Stock_His
+0,2021-01-01,OK,Revenue_His
+0,2021-02-01,OK,Revenue_His
+0,2021-03-01,OK,Revenue_His
+0,2021-04-01,OK,Revenue_His
+0,2021-05-01,OK,Revenue_His
+0,2021-06-01,OK,Revenue_His
